@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NeutrinoVPN/static/css/main.880f5a42.chunk.css",
+    "main.js": "/NeutrinoVPN/static/js/main.e6520eb9.chunk.js",
+    "main.js.map": "/NeutrinoVPN/static/js/main.e6520eb9.chunk.js.map",
+    "runtime-main.js": "/NeutrinoVPN/static/js/runtime-main.efca9b27.js",
+    "runtime-main.js.map": "/NeutrinoVPN/static/js/runtime-main.efca9b27.js.map",
+    "static/js/2.6a998ac0.chunk.js": "/NeutrinoVPN/static/js/2.6a998ac0.chunk.js",
+    "static/js/2.6a998ac0.chunk.js.map": "/NeutrinoVPN/static/js/2.6a998ac0.chunk.js.map",
+    "index.html": "/NeutrinoVPN/index.html",
+    "static/css/main.880f5a42.chunk.css.map": "/NeutrinoVPN/static/css/main.880f5a42.chunk.css.map",
+    "static/js/2.6a998ac0.chunk.js.LICENSE.txt": "/NeutrinoVPN/static/js/2.6a998ac0.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/NeutrinoVPN/static/media/svg-1.aaf6d7eb.svg",
+    "static/media/svg-2.svg": "/NeutrinoVPN/static/media/svg-2.d8bf2526.svg",
+    "static/media/svg-3.svg": "/NeutrinoVPN/static/media/svg-3.5c2ff5d4.svg",
+    "static/media/svg-4.afbf3786.svg": "/NeutrinoVPN/static/media/svg-4.afbf3786.svg",
+    "static/media/svg-5.27adc5f6.svg": "/NeutrinoVPN/static/media/svg-5.27adc5f6.svg",
+    "static/media/svg-6.6304bb28.svg": "/NeutrinoVPN/static/media/svg-6.6304bb28.svg",
+    "static/media/video.a2703484.mp4": "/NeutrinoVPN/static/media/video.a2703484.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efca9b27.js",
+    "static/js/2.6a998ac0.chunk.js",
+    "static/css/main.880f5a42.chunk.css",
+    "static/js/main.e6520eb9.chunk.js"
+  ]
+}

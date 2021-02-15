@@ -6,7 +6,7 @@ const SignIn = () => {
         <>
             <Container>
                 <FormWrap>
-                    <Icon to="/">NeutrinoVPN</Icon>
+                    <Icon to="/NeutrinoVPN">NeutrinoVPN</Icon>
                     <FormContent>
                         <Form action="#">
                             <FormH1>Sign in to your account</FormH1>

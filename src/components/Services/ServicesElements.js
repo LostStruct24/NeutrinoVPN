@@ -16,7 +16,7 @@ export const ServicesContainer = styled.div`
         height: 1300px;
     }
 
-    @media screen and (min-width: 1000px) {
+    @media screen and (min-width: 1500px) {
         height: 1000px;
     }
 

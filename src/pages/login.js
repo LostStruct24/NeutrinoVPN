@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import Login from '../components/Login';
 import ScrollToTop from '../components/ScrollToTop';
 import firebaseApp from '../firebase';
-
 import HomePage from '../components/HomePage';
 
 const LoginPage = () => {

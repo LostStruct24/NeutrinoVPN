@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/NeutrinoVPN/static/css/main.880f5a42.chunk.css",
-    "main.js": "/NeutrinoVPN/static/js/main.23809c5c.chunk.js",
-    "main.js.map": "/NeutrinoVPN/static/js/main.23809c5c.chunk.js.map",
+    "main.css": "/NeutrinoVPN/static/css/main.392331a1.chunk.css",
+    "main.js": "/NeutrinoVPN/static/js/main.551e2058.chunk.js",
+    "main.js.map": "/NeutrinoVPN/static/js/main.551e2058.chunk.js.map",
     "runtime-main.js": "/NeutrinoVPN/static/js/runtime-main.efca9b27.js",
     "runtime-main.js.map": "/NeutrinoVPN/static/js/runtime-main.efca9b27.js.map",
     "static/js/2.b9c904e0.chunk.js": "/NeutrinoVPN/static/js/2.b9c904e0.chunk.js",
     "static/js/2.b9c904e0.chunk.js.map": "/NeutrinoVPN/static/js/2.b9c904e0.chunk.js.map",
     "index.html": "/NeutrinoVPN/index.html",
-    "static/css/main.880f5a42.chunk.css.map": "/NeutrinoVPN/static/css/main.880f5a42.chunk.css.map",
+    "static/css/main.392331a1.chunk.css.map": "/NeutrinoVPN/static/css/main.392331a1.chunk.css.map",
     "static/js/2.b9c904e0.chunk.js.LICENSE.txt": "/NeutrinoVPN/static/js/2.b9c904e0.chunk.js.LICENSE.txt",
     "static/media/svg-1.svg": "/NeutrinoVPN/static/media/svg-1.aaf6d7eb.svg",
     "static/media/svg-2.svg": "/NeutrinoVPN/static/media/svg-2.d8bf2526.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.efca9b27.js",
     "static/js/2.b9c904e0.chunk.js",
-    "static/css/main.880f5a42.chunk.css",
-    "static/js/main.23809c5c.chunk.js"
+    "static/css/main.392331a1.chunk.css",
+    "static/js/main.551e2058.chunk.js"
   ]
 }

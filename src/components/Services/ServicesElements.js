@@ -7,10 +7,19 @@ export const ServicesContainer = styled.div`
     justify-content: center;
     align-items: center;
     background: #010606;
-
-    @media screen and (max-width: 768px) {
-        height: 1200px;
+    
+    @media screen and (max-height: 820px) {
+        height: 700px;
     }
+
+    @media screen and (max-width: 1000px) {
+        height: 900px;
+    }
+
+    @media screen and (max-width: 920px) {
+        height: 1300px;
+    }
+
 `;
 
 export const ServicesWrapper = styled.div`
